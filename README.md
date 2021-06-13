@@ -1,4 +1,4 @@
-<p align="center" width="300">
+<p align="right" width="300">
    <h1> Hi there 👋<h1>
       <p/>
     <div>
