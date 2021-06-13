@@ -1,3 +1,4 @@
+<p align="center">
    <h1> Hi there 👋<h1>
     <div>
 <h3> Contate me on:</h3>
@@ -11,7 +12,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </header>
+ </p>
 
 <!--
 **Caio-Mendonca/Caio-Mendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
