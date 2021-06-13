@@ -3,8 +3,8 @@
 Linkedin: (https://www.linkedin.com/in/caio-eduardo-597b03191/)
 
 Instagram: (https://www.instagram.com/caioeduardomendonca/)
-
-E-mail: (caioeduardojm@gmail.com)
+    <a href="mailto:caioeduardojm@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caioeduardojm@gmail.com">
  ##### Languages I use
 
 
