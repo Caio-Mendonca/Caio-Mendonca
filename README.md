@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Contate me on:
-linkedin- (https://www.linkedin.com/in/caio-eduardo-597b03191/)
+Linkedin: (https://www.linkedin.com/in/caio-eduardo-597b03191/)
  
  ##### Languages I use
 
