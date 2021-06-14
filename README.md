@@ -22,8 +22,3 @@
    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     &nbsp;&nbsp;&nbsp;
   </div>
-
-<!--
-**Caio-Mendonca/Caio-Mendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Absrat
-#ABSTRAT
