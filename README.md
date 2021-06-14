@@ -1,7 +1,7 @@
-<p align="right" width="300">
-   <h1> Hi there 👋<h1>
-      <p/>
-    <div>
+
+  <h1> Hi there 👋<h1>
+      
+ <div>
 <h3> Contate me on:</h3>
 <a href="https://www.linkedin.com/in/caio-eduardo-597b03191">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https:www.linkedin.com/in/caio-eduardo-597b03191/">
