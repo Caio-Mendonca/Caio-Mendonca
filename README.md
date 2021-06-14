@@ -6,8 +6,8 @@
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Caio-Mendonca">
 <a href="https://www.linkedin.com/in/caio-eduardo-597b03191">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https:www.linkedin.com/in/caio-eduardo-597b03191/">
-    <a href="mailto:caioeduardojm@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caioeduardojm@gmail.com">
+    <a href="mailto:caioeduardojm4@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caioeduardojm4@gmail.com">
     <a href="https://api.whatsapp.com/send/?phone=5566999293223&text&app_absent=0">
         <img src="https://cdn.tools.unlayer.com/social/icons/circle/whatsapp.png" width="32" height="32">
         </div>  
