@@ -8,7 +8,9 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https:www.linkedin.com/in/caio-eduardo-597b03191/">
     <a href="mailto:caioeduardojm@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caioeduardojm@gmail.com">
-        </div>
+    <a href="https://api.whatsapp.com/send/?phone=556696015505&text&app_absent=0">
+        <img src="https://cdn.tools.unlayer.com/social/icons/circle/whatsapp.png" width="32" height="32">
+        </div>  
  <div align="center">
     <h3>Languages I use:</h3>
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
