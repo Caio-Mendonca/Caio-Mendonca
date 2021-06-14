@@ -1,5 +1,5 @@
 
-  <h1 align="center">Hi there 👋<h1>
+  <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><h1>
  <div align="center">
 <h3> Contate me on:</h3>
 <a href="https://www.linkedin.com/in/caio-eduardo-597b03191">
