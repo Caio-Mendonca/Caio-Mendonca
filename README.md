@@ -1,6 +1,5 @@
-<p align="center">
-  <h1>Hi there 👋<h1>
- </p>
+
+  <h1 align="center">Hi there 👋<h1>
  <div align="center">
 <h3> Contate me on:</h3>
 <a href="https://www.linkedin.com/in/caio-eduardo-597b03191">
@@ -14,6 +13,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </div>
 
 <!--
