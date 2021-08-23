@@ -1,7 +1,9 @@
 
   <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><h1>
-  <div>
+  <div style="display: inline_block"><br>
     <img height="150em"src="https://github-readme-stats.vercel.app/api?username=caio-mendonca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-mendonca&layout=compact&langs_count=7&theme=dracula">
+  </div>
  <div align="center">
 <h3> Contate me:</h3>
     <a href="https://github.com/Caio-Mendonca">
