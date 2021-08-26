@@ -7,7 +7,7 @@
   
 • 🎒Graduando em Inteligencia de mercado e análise de dados na UNINTER, atualmente no 2 semestre.    
 
-• 💜Tenho experiencia com HTML5 e CSS3
+• 💜Tenho experiência com: HTML5 e CSS3
 
 • 👨‍💻Estou aprendendo: JavaScript, Python e SQL.
 
