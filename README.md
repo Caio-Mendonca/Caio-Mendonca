@@ -5,7 +5,7 @@
  
  #### Prazer, Sou o Caio! Um cara que ama tecnologia e negócios 👨‍💻
   
-• 🎒Graduando em Inteligencia de mercado e análise de dados na UNINTER, atualmente no 2 semestre.    
+• 🎒Graduando em Inteligência de mercado e análise de dados na UNINTER, atualmente no 2 semestre.    
 
 • 💜Tenho experiência com: HTML5 e CSS3
 
