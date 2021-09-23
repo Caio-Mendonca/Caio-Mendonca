@@ -7,9 +7,9 @@
   
 • 🎒Graduando em Inteligência de mercado e análise de dados na UNOPAR, atualmente no 2 semestre.    
 
-• 💜Tenho experiência com: HTML5 e CSS3
+• 💜Tenho experiência com: HTML5, CSS3, GIT e GITHUB
 
-• 👨‍💻Estou aprendendo: JavaScript, Python e SQL.
+• 👨‍💻Estou aprendendo: Python e SQL.
 
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack.  
 
