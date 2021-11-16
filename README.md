@@ -9,7 +9,7 @@
 
 • 💜Tenho experiência com: HTML5, CSS3, GIT e GITHUB
 
-• 👨‍💻Estou aprendendo: Python e SQL.
+• 👨‍💻Estou aprendendo: JavaScript e Vue.js.
 
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack.  
 
