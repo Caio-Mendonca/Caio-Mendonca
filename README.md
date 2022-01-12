@@ -5,7 +5,7 @@
  
  #### Prazer, Sou o Caio! Um cara que ama tecnologia e negócios 👨‍💻
   
-• 🎒Graduando em Inteligência de mercado e análise de dados na UNOPAR, atualmente no 2 semestre.    
+• 🎒Graduando em Inteligência de mercado e análise de dados na UNOPAR, atualmente no 3° semestre.    
 
 • 💜Tenho experiência com: HTML5, CSS3, GIT e GITHUB
 
