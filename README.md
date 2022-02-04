@@ -7,9 +7,9 @@
   
 • 🎒Graduando em Inteligência de mercado e análise de dados na UNOPAR, atualmente no 3° semestre.    
 
-• 💜Tenho experiência com: HTML5, CSS3, GIT e GITHUB
+• 💜Tenho experiência com: HTML5, CSS3, GIT, GITHUB, Javascript, Jquery, Axios, Node.js
 
-• 👨‍💻Estou aprendendo: JavaScript e Vue.js.
+• 👨‍💻Estou aprendendo: Vue.js e React Native.
 
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack.  
 
