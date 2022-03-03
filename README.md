@@ -23,9 +23,13 @@ There is always something new to learn  🚀
  <a href="mailto:caioeduardojm4@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caioeduardojm4@gmail.com"></a>
   </div>  
 <hr>
+
   <div align="center" >
-  <a href= "https://github.com/Caio-Mendonca"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-mendonca&layout=compact&langs_count=7&theme=dark">
+  <a href= "https://github.com/Caio-Mendonca"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-mendonca&layout=compact&langs_count=7&theme=dark"></a>
    </div>
    <div align="center">
     <a href= "https://github.com/Caio-Mendonca"><img src="https://github-readme-stats.vercel.app/api?username=caio-mendonca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></a>
    </div>
+  <div align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=caio-mendonca&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+ </div>
