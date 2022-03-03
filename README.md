@@ -31,5 +31,5 @@ There is always something new to learn  🚀
     <a href= "https://github.com/Caio-Mendonca"><img src="https://github-readme-stats.vercel.app/api?username=caio-mendonca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></a>
    </div>
   <div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=caio-mendonca&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+ <a href= "https://github.com/Caio-Mendonca"><img src="http://github-readme-streak-stats.herokuapp.com/?user=caio-mendonca&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>
  </div>
