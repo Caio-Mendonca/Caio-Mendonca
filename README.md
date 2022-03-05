@@ -37,7 +37,7 @@
  <img align="center" alt="Caio-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">|
   <img align="center" alt="Caio-Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">|
   <img align="center" alt="Caio-VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">|
- <img align="center" alt="Caio-Pycharm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
+ <img align="center" alt="Caio-Pycharm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">|
   <img align="center" alt="Caio-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
  
 </div>
