@@ -7,14 +7,41 @@
   
 • 🎒Graduando em Inteligência de mercado e análise de dados na UNOPAR, atualmente no 3° semestre.    
 
-• 💜Tenho experiência com: HTML5, CSS3, GIT, GITHUB, Javascript, Jquery, Axios, Vue.js e Node.js
 
 • 👨‍💻Estou aprendendo: React e React Native.
+ 
 
-• 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack.  
-
-There is always something new to learn  🚀 
 </div>
+<h2 align="center"> Stacks:</h2>
+<div style="display: inline_block" align="left">
+  <h4>Front-end:</h4>
+  <img align="center" alt="Caio-Html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">|
+  <img align="center" alt="Caio-Css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" >|
+  <img align="center" alt="Caio-Javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> |
+  <img align="center" alt="Caio-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> |
+  <img align="center" alt="Caio-Vuejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">|
+  <img align="center" alt="Caio-Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">|
+  <img align="center" alt="Caio-Jquery" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
+ 
+</div>
+<div style="display: inline_block" align="left">
+ <h4 >Back-end:</h4>
+ <img align="center" alt="Caio-MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">|
+  <img align="center" alt="Caio-Psql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">|
+  <img align="center" alt="Caio-Nodejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">|
+ <img align="center" alt="Caio-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+ 
+</div>
+<div style="display: inline_block" align="left">
+ <h4>Outras:</h4>
+ <img align="center" alt="Caio-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">|
+  <img align="center" alt="Caio-Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">|
+  <img align="center" alt="Caio-VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">|
+ <img align="center" alt="Caio-Pycharm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
+  <img align="center" alt="Caio-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+ 
+</div>
+
 <hr>
   <div align="center">
 <h3>Contato <h3>
