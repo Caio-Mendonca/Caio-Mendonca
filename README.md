@@ -1,14 +1,14 @@
 <div id="header" align="center">
- <h1>Olá ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+ <h1>Hi there!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
  
  
  
- #### Prazer, Sou o Caio! Um cara que ama tecnologia e negócios 👨‍💻
+ #### Nice to mee you, I'm Caio! A guy who loves technology and business 👨‍💻
   
-• 🎒Graduando em Inteligência de mercado e análise de dados na UNOPAR, atualmente no 3° semestre.    
+• 🎒 Studying Market Intelligence and Data Analysis at UNOPAR, currently in the 3rd semester    
 
 
-• 👨‍💻Estou aprendendo: React e React Native.
+• 👨‍💻Learning: React and React-Native.
  
 
 </div>
@@ -33,7 +33,7 @@
  
 </div>
 <div style="display: inline_block" align="left">
- <h4>Outras:</h4>
+ <h4>Others:</h4>
  <img align="center" alt="Caio-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">|
   <img align="center" alt="Caio-Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">|
   <img align="center" alt="Caio-VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">|
@@ -44,7 +44,7 @@
 
 <hr>
   <div align="center">
-<h3>Contato <h3>
+<h3>Contact <h3>
  <a href="https://github.com/Caio-Mendonca"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Caio-Mendonca"></a>
  <a href="https://www.linkedin.com/in/caio-eduardo-597b03191"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https:www.linkedin.com/in/caio-eduardo-597b03191/"></a>
  <a href="mailto:caioeduardojm4@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caioeduardojm4@gmail.com"></a>
