@@ -61,5 +61,5 @@
  <a href= "https://github.com/Caio-Mendonca"><img src="http://github-readme-streak-stats.herokuapp.com/?user=caio-mendonca&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>
  </div>
    <div align="center">
- <a href= "https://github.com/Caio-Mendonca"><img src="https://activity-graph.herokuapp.com/graph?username=caio-mendonca&theme=react-dark&bg_color=none&color=79ff97&line=79ff97"></a>
+ <a href= "https://github.com/Caio-Mendonca"><img src="https://activity-graph.herokuapp.com/graph?username=caio-mendonca&theme=react-dark&bg_color=none&color=79ff97&line=79ff97&radius=12"></a>
  </div>
