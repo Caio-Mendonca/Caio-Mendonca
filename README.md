@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <h1>Hi there!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+ <h1>Hi there!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px" height="50px"></h1>
  
  
  
@@ -55,10 +55,11 @@
 
   <div align="center" >
   <a href= "https://github.com/Caio-Mendonca"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-mendonca&layout=compact&langs_count=7&theme=dark"></a>
-   </div>
-   <div align="center">
     <a href= "https://github.com/Caio-Mendonca"><img src="https://github-readme-stats.vercel.app/api?username=caio-mendonca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></a>
    </div>
   <div align="center">
  <a href= "https://github.com/Caio-Mendonca"><img src="http://github-readme-streak-stats.herokuapp.com/?user=caio-mendonca&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>
+ </div>
+   <div align="center">
+ <a href= "https://github.com/Caio-Mendonca"><img src="https://activity-graph.herokuapp.com/graph?username=caio-mendonca&theme=react-dark&bg_color=none&color=79ff97&line=79ff97"></a>
  </div>
