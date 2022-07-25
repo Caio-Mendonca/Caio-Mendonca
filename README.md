@@ -15,8 +15,9 @@
 <h2 align="center"> Stacks:</h2>
 <div style="display: inline_block" align="left">
   <h4>Front-end:</h4>
+  <img align="center" alt="Caio-Next" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">|
+  <img align="center" alt="Caio-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">|
   <img align="center" alt="Caio-Vuejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">|
-   <img align="center" alt="Caio-Vuejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">|
   <img align="center" alt="Caio-Html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">|
   <img align="center" alt="Caio-Css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" >|
   <img align="center" alt="Caio-Javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> |
