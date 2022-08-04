@@ -1,4 +1,5 @@
 <div id="header" align="center">
+
  <h1>Hi there!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px" height="50px"></h1>
  
  
@@ -37,9 +38,9 @@
 <div style="display: inline_block" align="left">
  <h4>Others:</h4>
  <img align="center" alt="Caio-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">|
-  <img align="center" alt="Caio-Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">|
   <img align="center" alt="Caio-VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">|
  <img align="center" alt="Caio-Pycharm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">|
+  <img align="center" alt="Caio-Digital-Ocean" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">|
   <img align="center" alt="Caio-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
  
 </div>
