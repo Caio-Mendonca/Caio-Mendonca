@@ -7,9 +7,6 @@
  #### Nice to mee you, I'm Caio! A guy who loves technology and business 👨‍💻
   
 • 🎒 Studying Market Intelligence and Data Analysis at UNOPAR, currently in the 3rd semester    
-
-
-• 👨‍💻Learning: React and React-Native.
  
 
 </div>
