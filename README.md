@@ -68,8 +68,4 @@
  </div>
    
  </div>
- <hr>
- <div align="study">
- <h3>My studies</h3>
- <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6512dec43dc8db4c64bfbcf5?variant=dark" alt="roadmap.sh"/></a>
-</div>
+
