@@ -13,31 +13,39 @@
 <h2 align="center"> Stacks:</h2>
 <div style="display: inline_block" align="left">
   <h4>Front-end:</h4>
-  <img align="center" alt="Caio-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">|
-  <img align="center" alt="Caio-Vuejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">|
-  <img align="center" alt="Caio-Html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">|
-  <img align="center" alt="Caio-Css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" >|
-  <img align="center" alt="Caio-Javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> |
- <img align="center" alt="Caio-Typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> |
-  <img align="center" alt="Caio-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> |
-  <img align="center" alt="Caio-Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">|
-  <img align="center" alt="Caio-Jquery" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
- 
+   <img align="center" alt="Caio-Javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> |
+   <img align="center" alt="Caio-Typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> |
+   <img align="center" alt="Caio-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">|
+   <img align="center" alt="Caio-Vuejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">|
+   <img align="center" alt="Caio-Next" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />|
+   <img align="center" alt="Caio-Nuxt" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
 </div>
-<div style="display: inline_block" align="left">
+<div style="display: inline_block;" align="left">
  <h4 >Back-end:</h4>
- <img align="center" alt="Caio-MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">|
-  <img align="center" alt="Caio-Psql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">|
-  <img align="center" alt="Caio-Nodejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">|
- <img align="center" alt="Caio-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
- 
+  <img align="center" alt="Nodejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">|
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">|
+  <img align="center" alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> |
+  <img align="center" alt="FastApi" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> |
+  <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />        
+</div>
+<div style="display: inline_block;" align="left">
+ <h4>Data:</h4>
+   <img align="center" alt="Postgresql" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />|
+   <img align="center" alt="Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> |       
+   <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</div>
+<div style="display: inline_block;" align="left">
+ <h4>Cloud:</h4>
+   <img align="center" alt="GCP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />|       
+   <img align="center" alt="GCP" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />|
+   <img align="center" alt="Digital-Ocean" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">
 </div>
 <div style="display: inline_block" align="left">
  <h4>Others:</h4>
+   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />|
  <img align="center" alt="Caio-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">|
   <img align="center" alt="Caio-VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">|
  <img align="center" alt="Caio-Pycharm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">|
-  <img align="center" alt="Caio-Digital-Ocean" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">|
   <img align="center" alt="Caio-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
  
 </div>
@@ -58,6 +66,10 @@
   <div align="center">
  <a href= "https://github.com/Caio-Mendonca"><img src="http://github-readme-streak-stats.herokuapp.com/?user=caio-mendonca&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>
  </div>
-   <div align="center">
- <a href= "https://github.com/Caio-Mendonca"><img src="https://activity-graph.herokuapp.com/graph?username=caio-mendonca&theme=react-dark&bg_color=none&color=79ff97&line=79ff97&radius=12"></a>
+   
  </div>
+ <hr>
+ <div align="study">
+ <h3>My studies</h3>
+ <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6512dec43dc8db4c64bfbcf5?variant=dark" alt="roadmap.sh"/></a>
+</div>
