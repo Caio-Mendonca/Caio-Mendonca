@@ -18,8 +18,6 @@ I work across all layers of software architecture — backend, frontend, and mob
 - 🔍 Experienced in **automated testing**, **CI/CD**, and **infrastructure observability**
 - 📊 Tools I use for monitoring and diagnostics: **Grafana, Prometheus, Sentry, New Relic**, and other APM platforms
 - 💡 Passionate about solving real-world problems with clean, efficient, and maintainable code
-- 🤝 I believe in collaboration, clear documentation, strong Git practices, and continuous improvement
-
 ---
 
 ### 🧰 Tech Stack
