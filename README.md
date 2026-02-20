@@ -9,9 +9,13 @@
 
 ### 👨‍💻 About Me
 
-I'm **Caio Eduardo Justo Mendonça**, a Full Stack Software Engineer with solid experience in building scalable web and mobile applications.
+I'm **Caio Eduardo Justo Mendonça**, a Full Stack Software Engineer with solid experience in building scalable web and mobile applications. I work across all layers of software architecture, backend, frontend, and mobile, always focused on performance, code quality, and delivering real business value.
 
-I work across all layers of software architecture — backend, frontend, and mobile — always focused on performance, code quality, and delivering real business value.
+Throughout my career, I’ve worked with technologies such as Python, FastAPI, Django, Java, Spring boot, React, Node, React Native, TypeScript, and PostgreSQL, developing robust and well-structured solutions aligned with best practices in software engineering. My responsibilities often include requirements gathering, software architecture design, automated testing, and continuous integration (CI/CD).
+
+I also have hands-on experience with observability practices, including application monitoring, structured logging, and distributed tracing, which support the reliability and maintainability of the systems I build. I’ve used tools like Grafana, Prometheus, Sentry, New Relic and other APM platforms to track system health, detect anomalies, and ensure high availability in production environments.
+
+I’m passionate about solving real-world problems through technology, writing clean and maintainable code, and fostering a culture of continuous improvement. I believe in collaboration, efficient version control (Git), clear documentation, and testing as key pillars of sustainable software development.
 
 - 🛠️ Technologies I work with include: **Python, FastAPI, Django, Java, Spring Boot, React, React Native, TypeScript, PostgreSQL**
 - 📦 I design and implement robust and maintainable architectures following modern software engineering practices
