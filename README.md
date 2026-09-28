@@ -1,8 +1,8 @@
 <div id="header" align="center">
 
   <h1>Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" /></h1>
-  <h3>I'm Caio — CYBERSECURITY, IT RISK, SECURITY ASSURANCE & Software Engineer 🚀</h3>
-  <p>📍 Dublin, Ireland</p>
+  <h2>CYBERSECURITY, IT RISK, SECURITY ASSURANCE & SOFTWARE ENGINEER 🚀</h2>
+  <h4>I'm Caio — 📍 Dublin, Ireland</h4>
 
 </div>
 
