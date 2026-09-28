@@ -2,7 +2,7 @@
 
   <h1>Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" /></h1>
   <h2>CYBERSECURITY, IT RISK, SECURITY ASSURANCE & SOFTWARE ENGINEER 🚀</h2>
-  <h4>I'm Caio — 📍 Dublin, Ireland</h4>
+  <h4>📍 Dublin, Ireland</h4>
 
 </div>
 
